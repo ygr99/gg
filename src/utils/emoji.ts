@@ -35,7 +35,9 @@ const emojiMap: Record<string, string> = {
   book: '📖',
   open_book: '📖',
   books: '📚',
-  game_die: '🎲'
+  game_die: '🎲',
+  calendar: '📆',
+  blue_book: '📘'
 }
 
 export default (emoji: string): string => emojiMap[emoji.slice(1, -1)] || '';
