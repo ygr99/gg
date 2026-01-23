@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-tsx",
+    "path": "/category/页面",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"不上班的 180 天","number":13}},{"node":{"title":"来深两月记：一场关于自由与迷茫的宅家独白","number":12}},{"node":{"title":"音乐","number":10}},{"node":{"title":"一次意外的仅退款体验","number":11}},{"node":{"title":"别再把 AI 当打字机用了！它真正的超能力，是帮你挖出自家“宝藏”","number":9}},{"node":{"title":"解决 GG Discussion 类别 Emoji 无法渲染问题","number":8}},{"node":{"title":"先写再说！GG 的更新排序，我选不折腾了","number":5}},{"node":{"title":"别误会 “gg”！我不改项目名啦","number":4}}]}},"pageContext":{"category":{"name":"页面","emoji":":book:","description":"","isAnswerable":false},"name":"页面","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}

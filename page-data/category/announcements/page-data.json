@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-tsx",
+    "path": "/category/announcements",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"rgd.yml","number":1}},{"node":{"title":"部署 GG 教程","number":3}},{"node":{"title":"重新部署一个 GG","number":2}}]}},"pageContext":{"category":{"name":"Announcements","emoji":":mega:","description":"Updates from maintainers","isAnswerable":false},"name":"Announcements","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}

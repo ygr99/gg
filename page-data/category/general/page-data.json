@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-tsx",
+    "path": "/category/general",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"租房糟心事：隔壁的声音，真的太磨人了","number":7}},{"node":{"title":"discussion 讨论类别的 emoji 和之前有点不一样","number":6}}]}},"pageContext":{"category":{"name":"General","emoji":":speech_balloon:","description":"Chat about anything and everything here","isAnswerable":false},"name":"General","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}

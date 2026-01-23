@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-nav-category-tsx",
+    "path": "/category",
+    "result": {"pageContext":{"categoryList":[{"name":"页面","emoji":":book:","description":"","isAnswerable":false},{"name":"General","emoji":":speech_balloon:","description":"Chat about anything and everything here","isAnswerable":false},{"name":"Announcements","emoji":":mega:","description":"Updates from maintainers","isAnswerable":false}]}},
+    "staticQueryHashes": ["151096407","2861350382"]}

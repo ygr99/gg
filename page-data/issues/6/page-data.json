@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/6",
+    "result": {"data":{"issuesJson":{"id":"78e7dc30-c6f8-5ef9-bdc2-7359e5098c12","title":"discussion 讨论类别的 emoji 和之前有点不一样","number":6,"bodyHTML":"<p dir=\"auto\">discussion 讨论类别的 emoji 和之前有点不一样</p>","updatedAt":"2025-12-21T19:18:36Z","upvoteCount":1,"author":{"login":"ygr99","avatarUrl":"https://avatars.githubusercontent.com/u/91876454?u=052cc43185ad921a4802c6778d5af7f49bc96c14&v=4","url":"https://github.com/ygr99"},"category":{"isAnswerable":false,"name":"General","emoji":":speech_balloon:"},"labels":{"edges":[]},"comments":{"edges":[{"node":{"id":"DC_kwDOQsuRmM4A6aR4","bodyHTML":"<p dir=\"auto\">刚开始没察觉 emoji 样式变了，其实已经找对了表情，可显示效果和之前不一样，导致误以为没找到。</p>","author":{"login":"ygr99","avatarUrl":"https://avatars.githubusercontent.com/u/91876454?u=052cc43185ad921a4802c6778d5af7f49bc96c14&v=4","url":"https://github.com/ygr99"},"replies":{"edges":[]}}}]}}},"pageContext":{"number":6,"previous":{"title":"租房糟心事：隔壁的声音，真的太磨人了","number":7},"next":{"title":"先写再说！GG 的更新排序，我选不折腾了","number":5}}},
+    "staticQueryHashes": ["151096407","2861350382"]}
